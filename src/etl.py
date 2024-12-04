@@ -52,4 +52,4 @@ if __name__ == "__main__":
     df = extrai_dados(dir_arquivo)
     df_trasformado = transforma_dados(df)
     carga_dados(df_trasformado)
-    print(carga_dados)
+    print(carga_dados) 
